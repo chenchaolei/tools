@@ -5,8 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>thunder.tool</groupId>
-    <artifactId>maven-tool</artifactId>
+    <artifactId>tools</artifactId>
     <version>1.0.0</version>
-
 
 </project>
