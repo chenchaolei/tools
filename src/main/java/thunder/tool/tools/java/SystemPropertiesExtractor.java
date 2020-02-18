@@ -10,8 +10,8 @@ import java.util.List;
 import java.util.Properties;
 
 /**
- * @Title JVM自定义参数抽取器, SystemProperties抽取器
- * @Description 用于获取通过命令行传递的JVM自定义参数, 格式为: java -D<name>=<value> <MainClass>
+ * @Title 自定义JVM参数抽取器, SystemProperties抽取器
+ * @Description 用于获取通过命令行传递的自定义JVM参数, 格式为: java -D<name>=<value> <MainClass>
  * @Author 陈超雷(chenchaoleicn@gmail.com)
  * @Date 2020/1/19
  */
